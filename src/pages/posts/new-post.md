@@ -1,5 +1,5 @@
 ---
-title: Basic Rules For Walking In The Mountains
+title: New Post
 subtitle: lorem-ipsum
 date: '2019-04-09'
 excerpt: >-
